@@ -122,7 +122,7 @@ vaultguard-infra/
 
 - [AWS CDK Documentation](https://docs.aws.amazon.com/cdk/)
 - [CDK Best Practices](https://docs.aws.amazon.com/cdk/latest/guide/best-practices.html)
-- [VaultGuard Frontend](https://github.com/your-org/vaultguard)
+- [VaultGuard Frontend](https://github.com/mridulsikka141090/vaultguard)
 
 ---
 
